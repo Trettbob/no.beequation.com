@@ -5,7 +5,17 @@
     <link>https://no.beequation.com/blog/</link>
     <description>Nyheter, matteideer og nye veiledninger fra Beequation.</description>
     <language>nb</language>
-    <lastBuildDate>Mon, 12 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://no.beequation.com/blog/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bli raskere i hoderegning: metoder og øving for voksne</title>
+      <link>https://no.beequation.com/learn/get-faster-at-mental-maths.html?utm_source=rss</link>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Øv på hoderegning med oppdeling, tierovergang og dobling og halvering. En daglig femminuttersøkt og ti oppgaver med forklarte svar for voksne.</description>
+      <dc:creator>Lee Trett</dc:creator>
+      <guid isPermaLink="true">https://no.beequation.com/learn/get-faster-at-mental-maths.html</guid>
+      <enclosure url="https://beequation.com/assets/og-image.png" length="55579" type="image/png" />
+      <media:content url="https://beequation.com/assets/og-image.png" medium="image" />
+    </item>
   </channel>
 </rss>
